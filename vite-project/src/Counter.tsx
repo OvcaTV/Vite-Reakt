@@ -1,4 +1,3 @@
-// @ts-ignore
 import React, { useState } from 'react';
 
 const Counter: React.FC = () => {
