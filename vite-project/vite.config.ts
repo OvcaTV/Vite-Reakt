@@ -6,3 +6,4 @@ export default defineConfig({
   base: '/deploy-test/',
   plugins: [react()],
 })
+//neco
